@@ -72,7 +72,3 @@ Statistics:
   Deviation Squared ((Y - My)^2): [16.0, 4.0, 0.0, 4.0, 16.0]
   Product of Deviation Scores ((X - Mx)(Y - My)): [8.0, 2.0, 0.0, 1.799999999999999, 7.199999999999999]
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
